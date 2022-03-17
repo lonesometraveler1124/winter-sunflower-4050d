@@ -11,7 +11,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "P",
+                "label": "Poems",
                 "url": "/",
                 "style": "link"
             },
